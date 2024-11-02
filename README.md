@@ -29,3 +29,6 @@ This project is a simple Todo List application built using React. The app allows
    Clicking on an item strikes it out when completed.
    This project uses the useState and useEffect hooks in React.
    Enjoy managing your tasks with the Todo List App!
+
+   Picture of React Todo_list 
+![Doc2](https://github.com/user-attachments/assets/8d47af7a-1f86-4905-863f-2ec9c6fb447b)
