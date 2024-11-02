@@ -1,0 +1,17 @@
+.all {
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: 200;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+.sum {
+  background-color: yellow;
+  color: black;
+}
+
+.select {
+  margin-left: 30px;
+  background-color: fuchsia;
+}
